@@ -1,0 +1,17 @@
+FROM node:20-alpine
+
+WORKDIR /app
+
+COPY package*.json ./
+
+COPY apps/goschool/package*.json ./apps/goschool/
+
+RUN cd apps/goschool && npm install
+
+COPY apps/goschool ./apps/goschool/
+
+WORKDIR /app/apps/goschool
+
+EXPOSE 3000
+
+CMD [ "npm", "run", "dev"]

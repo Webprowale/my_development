@@ -1,0 +1,33 @@
+[
+
+  {
+    "sn": 1,
+    "name": "Qatar Airways",
+    "departureAirport": "JFK (New York)",
+    "arrivalAirport": "LAX (Los Angeles)",
+    "departureDate": "2024-05-15 08:00 AM",
+    "arrivalDate": "2024-05-15 11:00 AM",
+    "totalCost": "₦ 50,000",
+    "actions": ""
+  },
+  {
+    "sn": 2,
+    "name": "Qatar Airways",
+    "departureAirport": "JFK (New York)",
+    "arrivalAirport": "LAX (Los Angeles)",
+    "departureDate": "2024-05-15 08:00 AM",
+    "arrivalDate": "2024-05-15 11:00 AM",
+    "totalCost": "₦ 50,000",
+    "actions": ""
+  },
+  {
+    "sn": 3,
+    "name": "Qatar Airways",
+    "departureAirport": "JFK (New York)",
+    "arrivalAirport": "LAX (Los Angeles)",
+    "departureDate": "2024-05-15 08:00 AM",
+    "arrivalDate": "2024-05-15 11:00 AM",
+    "totalCost": "₦ 50,000",
+    "actions": ""
+  }
+]

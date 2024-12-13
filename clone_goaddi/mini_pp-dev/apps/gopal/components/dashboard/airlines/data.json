@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Qatar Airways",
+    "amount": 58
+  },
+  {
+    "label": "Emirates",
+    "amount": 73
+  },
+  {
+    "label": "British Airways",
+    "amount": 94
+  },
+  {
+    "label": "Ethiopian Airways",
+    "amount": 69
+  },
+  {
+    "label": "Turkish Airline",
+    "amount": 55
+  },
+  {
+    "label": "Lufthansa",
+    "amount": 43
+  }
+]

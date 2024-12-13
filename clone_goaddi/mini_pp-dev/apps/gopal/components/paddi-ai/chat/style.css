@@ -1,0 +1,43 @@
+.widget-floater-description {
+    background: linear-gradient(95.06deg, #0D6EFD -10.06%, #86B7FE 95.91%);
+}
+
+.floater-popup {
+    background: linear-gradient(126.08deg, rgba(255, 255, 255, 0.3) 13.84%, rgba(255, 255, 255, 0.1) 74.14%);
+    border: 1px solid;
+    border-image-source: linear-gradient(113.96deg, rgba(255, 255, 255, 0.7) 0%, rgba(224, 134, 238, 0.3) 33.59%, rgba(224, 134, 238, 0.4) 62.84%, rgba(134, 183, 254, 0.6) 100%);   
+}
+
+.floater-popup-right-top {
+    background: linear-gradient(95.06deg, rgba(13, 110, 253, 0.15) -10.06%, rgba(224, 134, 238, 0.15) 95.91%);
+    filter: blur(10px);
+}
+
+.floater-popup-left-bottom {
+    background: linear-gradient(95.06deg, rgba(13, 110, 253, 0.15) -10.06%, rgba(134, 183, 254, 0.15) 95.91%);
+    filter: blur(10px);
+}
+
+.floater-text-gradient {
+    background: -webkit-linear-gradient(90deg, #0D6EFD 0%, #E086EE 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.danger {
+    border: 2px solid #FF0000;
+}
+.downimage{
+    background-image: url('/assets/gopaddi/isolatedImage.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gradient-text {
+    font-weight: bold;
+    background: linear-gradient(90deg, #0D6EFD,#E086EE); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text; 
+    color: transparent; 
+}

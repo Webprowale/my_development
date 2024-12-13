@@ -1,0 +1,19 @@
+/* components/Typewriter.module.css */
+.typewriter {
+    border-right: 0.15em solid #0D6EFD;
+  }
+  
+  .cursor {
+    display: inline-block;
+    animation: blink 0.7s step-end infinite;
+  }
+  
+  @keyframes blink {
+    from, to {
+      border-color: transparent;
+    }
+    50% {
+      border-color: black;
+    }
+  }
+  

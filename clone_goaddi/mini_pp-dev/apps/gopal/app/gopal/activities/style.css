@@ -1,0 +1,9 @@
+.header {
+    background-image: url(/assets/back.png);
+    background-size: cover;
+}
+
+.search-header{
+    background-image: url(/assets/flight/filter-bg.png);
+    background-size: cover;
+}

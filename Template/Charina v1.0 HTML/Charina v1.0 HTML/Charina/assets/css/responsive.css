@@ -1,0 +1,2434 @@
+
+/* Normal desktop :1501. */
+@media (min-width: 1501px) and (max-width: 1799px) {
+
+.about-single-counter-box {
+    width: 360px;
+}
+.car-thumb {
+    right: -134px;
+}
+.car-road {
+    width: 212px;
+    right: -50px;
+}
+.about-thumb img {
+    width: 100%;
+}
+.about-counter-number h2 {
+    font-size: 86px;
+}
+iframe {
+    width: 100%;
+}
+
+
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.charina_menu > ul > li > a {
+    margin: 30px 6px ;
+    font-size: 15px ;
+}
+a.logo_img img {
+    width: 170px;
+}
+.header-button a {
+    padding: 10px 30px;
+    font-size: 14px;
+}
+.header-button2 a i {
+    font-size: 18px;
+    width: 40px;
+    height: 40px;
+    line-height: 41px;
+}
+iframe {
+    width: 100%;
+}
+.footer-shape2 {
+    display: none;
+}
+.search-box-btn {
+    display: none;
+}
+.header-button2 {
+    display: none;
+}
+.splide__arrows.splide__arrows--ttb {
+    display: none;
+}
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+.charina_nav_manu:before {
+    width: 190px;
+}
+.charina_nav_manu {
+    padding: 0 0 0 12px;
+}
+a.logo_img img {
+    width: 75%;
+}
+a.main_sticky img {
+    width: 100% ;
+}
+.search-box-btn {
+    display: none;
+}
+.header-button a {
+    padding: 14px 25px;
+    font-size: 15px;
+}
+.header-button a i {
+    display: none;
+}
+.header-button2 {
+    display: none;
+}
+nav.charina_menu > ul > li > a span {
+    display: none;
+}
+.charina_menu > ul > li > a {
+    font-size: 15px;
+    margin: 29px 8px;
+}
+.header-button2 a i {
+    display: none;
+}
+.slider-button-title h6 {
+    font-size: 15px;
+    font-weight: 500;
+}
+.menu-text i {
+    display: none;
+}
+.footer-shape2 {
+    display: none;
+}
+.slider-button-title p {
+    font-size: 15px;
+    font-weight: 400;
+}
+.style-two.charina_nav_manu .charina-button a {
+    padding: 12px 35px;
+    font-size: 14px;
+}
+.owl-nav {
+    top: 76%;
+}
+.splide__arrows.splide__arrows--ttb {
+    display: none;
+}
+/*slider area*/
+.hero-title h1 {
+    font-size: 60px;
+    line-height: 75px;
+}
+.video-icon {
+    left: 30%;
+}
+.style-three .header-button a {
+    padding: 14px 28px;
+}
+/*feature section*/
+.feature-title h4 {
+    font-size: 18px;
+}
+img.feature-image-2 {
+    left: 0;
+}
+
+
+/*section title*/
+.charina-section-title h1 {
+    font-size: 34px;
+    line-height: 40px;
+}
+.charina-section-title h5 {
+    font-size: 16px;
+}
+.charina-section-title p {
+    font-size: 15px;
+}
+/* End section title*/ 
+
+
+/*about section*/
+.about-thumb img {
+    width: 100%;
+}
+.about-thumb {
+    margin: 0;
+}
+.about-shape {
+    bottom: 8%;
+}
+
+.progress-ber-plugin {
+    padding: 40px 12px 13px;
+}
+p.progress-text {
+    padding-left: 22px;
+}
+.progress-text p {
+    font-size: 12px;
+}
+.progress-text span {
+    font-size: 11px;
+}
+
+.about-thumb2 {
+    left: 0;
+}
+.about-thumb2 img {
+    width: 100%;
+}
+.items-icon {
+    padding-right: 20px;
+}
+/*donate section*/
+
+.donate-items-content {
+    padding: 0 40px 0;
+}
+.donate-section-title h2 {
+    font-size: 21px;
+    line-height: 34px;
+}
+.donate-title h3 a {
+    font-size: 20px;
+}
+
+/*service section*/
+
+.service-title h3 {
+    font-size: 18px;
+    padding: 12px 0 13px;
+}
+
+.service-desc p {
+    font-size: 13px;
+    padding: 0 0 25px;
+}
+/*event section*/
+.events-content {
+    padding: 22px 15px 0 20px;
+}
+.event-title h3 {
+    font-size: 18px;
+}
+.event-text p {
+    font-size: 13px;
+}
+.event-text p span {
+    padding-left: 10px;
+}
+
+.event-date {
+    display: none;
+}
+
+.event-shape {
+    left: 24%;
+    top: 5%;
+}
+.style-two .event-title h4 span {
+    font-size: 33px;
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+}
+.style-two .event-title h4 {
+    font-size: 20px;
+}
+.style-two .event-title h3 {
+    font-size: 18px;
+    line-height: 30px;
+    padding: 17px 0 30px 0;
+}
+.style-two .event-text p {
+    font-size: 14px;
+}
+.event-title h3 a {
+    font-size: 15px;
+    line-height: 24px;
+}
+.style-two .event-title h3 a {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+/*volunteer section*/
+
+
+.volunteer-title h2 {
+    font-size: 20px;
+}
+.volunteer-thumb img {
+    width: 100%;
+}
+.volunteer-text span {
+    font-size: 15px;
+}
+
+/*testimonial*section*/
+
+.testimonial-title h4 {
+    font-size: 20px;
+}
+.testi-title h4 {
+    font-size: 20px;
+}
+.testimonial-desc p {
+    font-size: 15px;
+}
+.testimonial-icon {
+    float: inherit;
+}
+
+/*video section*/
+.video-title h1 {
+    font-size: 40px;
+}
+
+/*mission section*/
+.charina-mission-content {
+    padding: 0 0 0 45px;
+}
+.mission-title h3 {
+    font-size: 21px;
+}
+.mission-list ul li {
+    font-size: 14px;
+}
+.mission-items-desc p {
+    font-size: 15px;
+}
+/*counter section*/
+
+.style-two .counter-single-box {
+    padding: 40px 22px 15px;
+}
+.counter-title h1 {
+    font-size: 33px;
+}
+.counter-icon {
+    padding-right: 16px;
+}
+.counter-title2 h1 {
+    font-size: 45px;
+}
+
+.style-two .counter-text p {
+    text-align: center;
+    font-size: 17px;
+}
+/*call do action area*/
+
+.call-do-title h2 {
+    font-size: 40px;
+}
+.style-three.call-to-action .charina-section-title h1 {
+    font-size: 25px;
+    line-height: 35px;
+}
+.call-to-title h2 {
+    font-size: 27px;
+}
+/*galary section*/
+
+.galary-text a {
+    padding: 15px 10px;
+    font-size: 13px;
+}
+.style-two .galary-text a {
+    font-size: 12px;
+    padding: 19px 16px;
+}
+
+.galary-title h4 a {
+    font-size: 22px;
+}
+
+
+/*brand section*/
+.brand-section {
+    padding: 80px 0 80px;
+}
+
+/*blog section*/
+
+.charina-blog-thumb img {
+    width: 100%;
+}
+.blog-title h2 a {
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.company-info-desc p {
+    font-size: 15px;
+}
+
+.footer-widget-thumb .items img {
+    width: 100%;
+}
+
+
+.footer-shape2 {
+    right: 26px;
+}
+.footer-shape {
+    bottom: -80px;
+    left: 48px;
+}
+
+
+
+/*subscribe section*/
+.subscribe-title h1 {
+    font-size: 37px;
+    padding: 0;
+}
+
+iframe {
+    width: 100%;
+}
+
+.breatcam-title h1 {
+    font-size: 36px;
+}
+.donation-details-section .charina-button a {
+    padding: 9px 28px;
+    font-size: 13px;
+}
+.donation-details-section .charina-button a i {
+    font-size: 12px;
+    margin-left: 3px;
+}
+.donar-single-box {
+    margin-right: 20px !important;
+}
+.donar-title h5 {
+    font-size: 15px;
+}
+.donar-single-box {
+    text-align: center;
+    margin-right: 28px !important;
+}
+.charina-donars {
+    padding: 30px 42px 30px;
+}
+.post-button a {
+    top: -150px;
+}
+.widget-title2 h3 {
+    font-size: 27px;
+}
+.rpost-title {
+    padding-left: 16px;
+}
+.rpost-content h4 a {
+    font-size: 15px;
+}
+.widget-items {
+    padding: 28px 25px 10px;
+}
+.special-desc p {
+    font-size: 14px;
+}
+.contact-form-thumb img {
+    width: 100%;
+}
+.row.contact-bg {
+    padding: 30px 35px 50px;
+}
+
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.charina_nav_manu  {
+    display: none !important;
+}
+.header_top_menu {
+    display: none;
+}
+/*slider area*/
+.hero-title h1 {
+    font-size: 48px;
+    line-height: 62px;
+}
+.hero-button {
+    margin-top: 40px;
+}
+.hero2 .hero-title h1 {
+    font-size: 50px;
+    line-height: 60px;
+}
+.video-icon {
+    left: 40%;
+}
+
+.owl-nav {
+    top: 74%;
+}
+
+/*section title*/
+.charina-section-title h1 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.charina-section-title h5 {
+    font-size: 15px;
+}
+.charina-section-title p {
+    font-size: 15px;
+}
+.about-section .charina-section-title h1 {
+    font-size: 26px;
+    line-height: 34px;
+}
+
+/*about section*/
+.about-thumb img {
+    width: 100%;
+}
+.about-thumb {
+    margin: 0;
+}
+.about-shape {
+    bottom: 8%;
+}
+.about-shape2 {
+    top: 6%;
+}
+.about-thumb2 img {
+    width: 100%;
+}
+.about-thumb2 {
+    left: 0;
+}
+.about-three .about-thumb2 {
+    left: 0;
+    margin-bottom: 20px;
+}
+.charina-description p {
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.items-icon {
+    padding-right: 20px;
+}
+.about-item-content p {
+    width: 82%;
+}
+.upper.charina-check-list p {
+    font-size: 14px;
+}
+
+/*abour progress*/
+.progress-ber-plugin {
+    padding: 40px 12px 13px;
+}
+p.progress-text {
+    padding-left: 22px;
+}
+.progress-text p {
+    font-size: 12px;
+}
+.progress-text span {
+    font-size: 11px;
+}
+.feature-section .charina-section-title h1 {
+    font-size: 25px;
+    line-height: 32px;
+}
+
+
+/*service section*/
+.service-title h3 {
+    font-size: 18px;
+    padding: 12px 0 13px;
+}
+.service-desc p {
+    padding: 0 28px 25px;
+}
+
+
+/*event section*/
+.events-section .charina-section-title h1 {
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.splide {
+    margin-top: 40px;
+}
+
+.events-content {
+    padding: 22px 15px 0 20px;
+}
+.event-title h3 {
+    font-size: 18px;
+}
+.event-text p span {
+    padding-left: 10px;
+}
+
+.event-date {
+    display: none;
+}
+
+.event-shape {
+    left: 24%;
+    top: 5%;
+}
+.style-two .event-title h3 {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 17px 0px 30px 0;
+}
+
+.events-single-box {
+    margin: 30px 0 0;
+}
+
+/*volunteer section*/
+
+
+.volunteer-title h2 {
+    font-size: 20px;
+}
+.volunteer-text span {
+    font-size: 15px;
+}
+
+/*testimonial*section*/
+
+.testimonial-section .charina-section-title h1 {
+    font-size: 27px;
+    line-height: 40px;
+}
+.testimonial-single-box {
+    padding: 66px 25px 27px;
+}
+.testimonial-title h4 {
+    font-size: 20px;
+}
+.testi-title h4 {
+    font-size: 20px;
+}
+.testimonial-desc p {
+    font-size: 15px;
+}
+
+.testi-shape {
+    top: 50px;
+}
+
+
+/*video section*/
+.video-title h1 {
+    font-size: 40px;
+}
+
+/*donate section*/
+.donate-section.style-two .charina-section-title h1 {
+    font-size: 26px;
+    line-height: 38px;
+}
+.donate-date-text {
+    padding-left: 0;
+    margin-top: 30px;
+}
+.donate-campaigns-items {
+    display: block;
+}
+.donate-items-content {
+    padding: 25px 55px 40px;
+}
+
+/*galary section*/
+.galary-text {
+    transform: translateX(17%);
+}
+.galary-text a {
+    padding: 15px 10px;
+    font-size: 14px;
+}
+.style-two .galary-text a {
+    font-size: 12px;
+    padding: 19px 16px;
+}
+.galary-title h4 a {
+    font-size: 22px;
+}
+.style-three .galary-title {
+    left: 100px;
+}
+
+/*mission $ vission*/
+
+
+.tabs li a {
+    padding: 3px 30px;
+    font-size: 15px;
+}
+.charina-single-mission-items {
+    display: block;
+    padding: 55px 55px 55px;
+}
+.charina-mission-content {
+    padding: 12px 0 0 0px;
+}
+
+/*counter section*/
+
+.counter-title h1 {
+    font-size: 33px;
+}
+.counter-section.style-two .charina-section-title h1 {
+    font-size: 24px;
+    line-height: 35px;
+}
+
+
+/*call do action area*/
+
+.call-do-title h2 {
+    font-size: 40px;
+}
+.style-two.call-to-action .charina-section-title h1 {
+    font-size: 24px;
+}
+.style-three.call-to-action {
+    text-align: center;
+}
+.call-to-icon {
+    margin-right: 20px;
+}
+.call-to-title h2 {
+    font-size: 22px;
+    line-height: 32px;
+}
+
+.call-to-desc p {
+    font-size: 15px;
+}
+
+/*brand section*/
+.brand-section {
+    padding: 80px 0 80px;
+}
+
+
+/*blog section*/
+
+.charina-blog-thumb img {
+    width: 100%;
+}
+.blog-title h2 a {
+    font-size: 18px;
+    line-height: 27px;
+}
+
+/*footer section*/
+.items {
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.footer-info-desc p {
+    font-size: 14px;
+}
+
+.footer-shape2 {
+    right: 26px;
+    top: -65px;
+}
+.footer-shape {
+    bottom: -80px;
+    left: 48px;
+}
+
+iframe {
+    width: 100%;
+}
+.donar-single-box {
+    margin-right: 20px !important;
+}
+.donar-title h5 {
+    font-size: 15px;
+}
+.donar-single-box {
+    text-align: center;
+    margin-right: 28px !important;
+    margin-bottom: 30px;
+}
+.charina-donars {
+    padding: 30px 42px 30px;
+}
+.post-button a {
+    top: -182px;
+}
+.widget-title2 h3 {
+    font-size: 27px;
+}
+.rpost-title {
+    padding-left: 16px;
+}
+.rpost-content h4 a {
+    font-size: 15px;
+}
+.widget-items {
+    padding: 28px 25px 10px;
+}
+.post-comment-thumb {
+    float: inherit;
+}
+.donation-details-section .charina-button a {
+    padding: 5px 17px;
+    font-size: 11px;
+}
+.donation-details-section .charina-button a i {
+    font-size: 11px;
+    margin-left: 4px;
+}
+.style-two.progress-ber-plugin {
+    padding: 68px 10px 15px 5px;
+}
+.donation-details-section .style-two.progress-ber-plugin p.progress-text {
+    text-align: left;
+}
+.donation-details-section p.progress-text {
+    padding-left: 0;
+}
+.donations-detials-title h2 a {
+    font-size: 24px;
+}
+.donation-description p {
+    font-size: 15px;
+}
+.donation-list ul li {
+    font-size: 14px;
+}
+.breatcam-title h1 {
+    font-size: 35px;
+}
+.up.donation-description p {
+    font-size: 16px;
+}
+.event-note P {
+    font-size: 13px;
+}
+.blog-title2 h3 a {
+    font-size: 22px;
+}
+.blog-description2 p {
+    font-size: 15px;
+}
+.special-desc p {
+    font-size: 14px;
+    padding-top: 20px;
+}
+.blogs-icon {
+    float: inherit;
+}
+.up.donations-detials-title h2 a {
+    font-size: 24px;
+}
+.social-icon-list.text-right {
+    text-align: left !important;
+    padding-top: 20px;
+}
+.sidebar-title h1 {
+    font-size: 22px;
+}
+.contact-form-thumb img {
+    width: 100%;
+}
+.row.contact-bg {
+    padding: 25px 35px 45px;
+}
+
+
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+.header_top_menu {
+    display: none;
+}    
+.charina_nav_manu {
+    display: none;
+}
+
+/*slider area*/
+.hero-title h1 {
+    font-size: 38px;
+    line-height: 50px;
+}
+
+.hero2 .hero-description p {
+    font-size: 18px;
+}
+
+.owl-nav {
+    top: 73%;
+}
+
+.video-icon {
+    left: 54%;
+}
+
+/*section title*/
+.charina-section-title h1 {
+    font-size: 32px;
+    line-height: 40px;
+}
+.charina-section-title h5 {
+    font-size: 15px;
+}
+.charina-section-title p {
+    font-size: 15px;
+}
+.about-section .charina-section-title h1 {
+    font-size: 26px;
+    line-height: 34px;
+}
+
+/*about section*/
+.about-thumb img {
+    width: 100%;
+}
+.about-thumb {
+    margin: 0;
+}
+.about-thumb2 img {
+    width: 100%;
+}
+.about-thumb2 {
+    left: 0;
+}
+.about-three .about-thumb2 {
+    left: 0px;
+}
+.about-shape {
+    bottom: 8%;
+}
+
+.charina-description p {
+    font-size: 16px;
+    line-height: 28px;
+}
+.charina-check-list p {
+    font-size: 15px;
+}
+/*abour progress*/
+.progress-ber-plugin {
+    padding: 40px 12px 13px;
+}
+p.progress-text {
+    padding-left: 22px;
+}
+.progress-text p {
+    font-size: 12px;
+}
+.progress-text span {
+    font-size: 11px;
+}
+
+/*service section*/
+.service-section.style-two {
+    text-align: center;
+}
+.service-section.style-two .charina-section-title {
+    margin-bottom: 30px;
+}
+.service-section {
+    text-align: center;
+}
+.service-section .charina-section-title.white {
+    margin-bottom: 30px;
+}
+/*event section*/
+.events-section .charina-section-title h1 {
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.events-content {
+    padding: 22px 15px 0 20px;
+}
+.event-title h3 {
+    font-size: 18px;
+}
+.event-text p span {
+    padding-left: 10px;
+}
+.event-date {
+    display: none;
+}
+
+.event-shape {
+    left: 32%;
+    top: 5%;
+}
+.style-two.events-section {
+    padding: 60px 50px 40px;
+}
+.events-section .charina-button {
+    margin-bottom: 40px;
+}
+.event-list .owl-nav {
+    top: -33%;
+    right: 5%;
+}
+.style-two .event-title h3 {
+    font-size: 22px;
+    line-height: 30px;
+    padding: 17px 0px 30px 0;
+}
+/*mission & vission*/
+.tabs li a {
+    font-size: 15px;
+    padding: 4px 22px;
+}
+.charina-single-mission-items {
+    display: block;
+}
+.charina-mission-content {
+    padding: 10px 0 0 0px;
+}
+.mission-title h3 {
+    font-size: 26px;
+}
+.mission-shape {
+    top: 6%;
+}
+.charina-mission-thumb img {
+    width: 100%;
+}
+
+/*volunteer section*/
+
+
+.volunteer-title h2 {
+    font-size: 20px;
+}
+.volunteer-text span {
+    font-size: 15px;
+}
+
+/*testimonial*section*/
+
+.testimonial-section .charina-section-title h1 {
+    font-size: 27px;
+    line-height: 40px;
+}
+.testimonial-single-box {
+    padding: 66px 25px 27px;
+}
+.testimonial-title h4 {
+    font-size: 20px;
+}
+.testi-title h4 {
+    font-size: 20px;
+}
+.testimonial-desc p {
+    font-size: 15px;
+}
+
+.testi-shape {
+    top: 50px;
+}
+
+.testimonial-section .col-lg-6.col-md-6.pl-50 {
+    padding: 30px 0 0 0 !important;
+}
+
+/*galary section*/
+
+.galary-text {
+    transform: translateX(46%);
+}
+
+.style-two.galary-section .galary-text {
+    transform: translateX(60%);
+}
+.style-three .galary-title {
+    left: 100px;
+}
+
+/*video section*/
+.video-title h1 {
+    font-size: 40px;
+}
+.video-button {
+    margin-bottom: 35px;
+}
+.style-two .video-icon {
+    top: -62px;
+    left: 38%;
+}
+
+/*donate section*/
+.donate-section.style-two {
+    text-align: center;
+    background-position: center right;
+    padding: 150px 0 100px;
+}
+
+.donate-campaigns-items {
+    display: block;
+}
+.donate-items-content {
+    padding: 20px 30px 40px;
+}
+
+
+/*counter section*/
+.counter-section {
+    text-align: center;
+}
+.counter-single-box.up {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.counter-single-box.upper2 {
+    margin-top: 0;
+}
+.counter-title {
+    left: 0;
+    right: 0;
+}
+.counter-title h1 {
+    font-size: 33px;
+}
+.counter-icon {
+    float: inherit;
+    padding-right: 0;
+    margin-bottom: 15px;
+}
+
+/*call do action area*/
+
+.call-do-title h2 {
+    font-size: 40px;
+}
+.style-two.call-to-action .charina-section-title.white {
+    text-align: center;
+}
+.style-two.call-to-action .charina-button.text-right {
+    text-align: center !important;
+}
+.charina-button.text-right {
+    text-align: center !important;
+    margin-top: 30px;
+}
+.call-to-shape {
+    right: 40%;
+    top: -103px;
+}
+.style-three.call-to-action {
+    text-align: center;
+}
+.call-to-title h2 {
+    font-size: 28px;
+}
+
+.col-lg-6.col-md-6.pl-60.responsive {
+    padding-left: 15px !important;
+}
+
+/*brand section*/
+.brand-section {
+    padding: 80px 0 80px;
+}
+
+/*blog section*/
+
+.charina-blog-thumb img {
+    width: 100%;
+}
+.blog-title h2 a {
+    font-size: 18px;
+    line-height: 27px;
+}
+
+/*footer section*/
+
+.footer-info-desc p {
+    font-size: 14px;
+}
+
+.footer-shape2 {
+    right: 26px;
+    top: -65px;
+}
+.footer-shape {
+    bottom: -80px;
+    left: 48px;
+}
+
+.footer-bottom-area {
+    text-align: center;
+    padding: 20px 0 18px;
+}
+
+.footer-bottom-menu.text-right {
+    text-align: center !important;
+}
+
+iframe {
+    width: 100%;
+}
+
+.donations-detials-title h2 a {
+    font-size: 23px;
+}
+.donation-description p {
+    font-size: 15px;
+}
+
+.post-button a {
+    top: -155px;
+}
+.organizer-items {
+    margin-top: 30px;
+}
+
+.breatcam-title h1 {
+    font-size: 32px;
+    color: #fff;
+    padding: 1px 0 0;
+}
+.style-three .events-single-box {
+    display: block;
+}
+.style-three .event-title h3 {
+    font-size: 21px;
+}
+.event-thumb {
+    margin-bottom: 20px;
+}
+.event-details-items {
+    margin-top: 30px;
+}
+.widget-title2 h3 {
+    font-size: 25px;
+}
+.charina-button a {
+    padding: 14px 38px;
+    font-size: 15px;
+}
+.widget_search {
+    margin-top: 30px;
+}
+.special-desc {
+    overflow: hidden;
+}
+.special-desc p {
+    font-size: 15px;
+}
+.sidebar-title h1 {
+    font-size: 25px;
+}
+.contact-form-thumb img {
+    width: 100%;
+    margin-top: 30px;
+}
+.row.contact-bg {
+    padding: 25px 35px 45px;
+}
+.social-icon-list.text-right {
+    text-align: left !important;
+    padding-top: 25px;
+}
+
+
+
+
+}
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+.charina_nav_manu {
+    display: none;
+}
+.header_top_menu {
+    display: none;
+}
+
+/*slider area*/
+.hero2 {
+    text-align: center;
+}
+.hero-sub-title h5 {
+    font-size: 18px;
+    margin: 0 0 15px;
+}
+.hero-title h1 {
+    font-size: 33px;
+    line-height: 45px;
+}
+.hero-button {
+    margin-top: 34px;
+}
+
+.hero-button a {
+    padding: 15px 38px;
+    font-size: 15px;
+}
+
+.owl-nav {
+    top: 70%;
+    left: 40px;
+}
+.hero4 .owl-nav {
+    top: 52%;
+    left: 77%;
+}
+.hero3 .owl-nav {
+    top: 52%;
+    left: 77%;
+}
+.video-icon {
+    left: 62%;
+}
+
+/*feature section*/
+.feature-description p {
+    padding: 17px 43px 3px;
+}
+
+/*section title*/
+.charina-section-title h1 {
+    font-size: 32px;
+    line-height: 40px;
+}
+.charina-section-title h5 {
+    font-size: 15px;
+}
+.charina-section-title p {
+    font-size: 15px;
+}
+.about-section .charina-section-title h1 {
+    font-size: 26px;
+    line-height: 34px;
+}
+.charina-section-title h4 {
+    font-size: 16px;
+}
+
+/*about section*/
+.about-thumb img {
+    width: 100%;
+}
+.about-thumb {
+    margin: 0;
+}
+.about-shape {
+    bottom: 8%;
+}
+
+.about-thumb2 img {
+    width: 100%;
+}
+.about-thumb2 {
+    left: 0;
+}
+.about-three .about-thumb2 {
+    left: 0;
+}
+.charina-description p {
+    font-size: 16px;
+    line-height: 28px;
+}
+.charina-check-list p {
+    font-size: 15px;
+}
+.about-item-content p {
+    font-size: 14px;
+    width: 77%;
+}
+/*abour progress*/
+.progress-ber-plugin {
+    padding: 40px 12px 13px;
+}
+p.progress-text {
+    padding-left: 22px;
+}
+.progress-text p {
+    font-size: 12px;
+}
+.progress-text span {
+    font-size: 11px;
+}
+
+/*service section*/
+.service-section.style-two {
+    text-align: center;
+}
+.service-section.style-two .charina-section-title {
+    margin-bottom: 30px;
+}
+
+/*event section*/
+.events-section .charina-section-title h1 {
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.events-content {
+    padding: 22px 15px 0 20px;
+}
+.event-title h3 {
+    font-size: 15px;
+    line-height: 26px;
+}
+.event-text p span {
+    padding-left: 10px;
+}
+.event-date {
+    display: none;
+}
+
+.event-shape {
+    left: 32%;
+    top: 5%;
+}
+
+.events-section .charina-button {
+    margin-bottom: 40px;
+}
+.style-two .event-title h3 {
+    font-size: 22px;
+    line-height: 30px;
+    padding: 17px 0px 30px 0;
+}
+.style-two .event-title h4 {
+    font-size: 21px;
+}
+.style-two .event-title h4 span {
+    font-size: 35px;
+    font-weight: 400;
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+}
+.event-title h3 a {
+    font-size: 15px;
+    line-height: 26px;
+}
+.style-two .event-title h3 a {
+    font-size: 22px;
+    line-height: 32px;
+}
+.event-button a {
+    font-size: 13px;
+    line-height: 40px;
+}
+.event-list .owl-nav {
+    top: -52%;
+}
+
+/*volunteer section*/
+
+
+.volunteer-title h2 {
+    font-size: 20px;
+}
+.volunteer-text span {
+    font-size: 15px;
+}
+
+/*testimonial*section*/
+
+.testimonial-section .charina-section-title h1 {
+    font-size: 27px;
+    line-height: 40px;
+}
+
+.testimonial-single-box {
+    padding: 66px 25px 27px;
+    margin-bottom: 30px;
+}
+
+.testimonial-title h4 {
+    font-size: 20px;
+}
+.testi-title h4 {
+    font-size: 20px;
+}
+.testimonial-desc p {
+    font-size: 15px;
+}
+
+.testi-shape {
+    top: 50px;
+}
+
+.testimonial-section .col-lg-6.col-md-6.pl-50 {
+    padding-left: 15px;
+}
+
+/*galary section*/
+
+.galary-text {
+    transform: translateX(26%);
+}
+.style-two .galary-title h2 {
+    font-size: 26px;
+}
+.style-two .galary-text {
+    transform: translateX(33%);
+}
+.galary-title h4 a {
+    font-size: 22px;
+}
+.style-three .galary-title {
+    left: 100px;
+}
+
+/*video section*/
+.video-title h1 {
+    font-size: 40px;
+}
+
+/*donate section*/
+.donate-section.style-two {
+    text-align: center;
+}
+
+.video-button {
+    margin-bottom: 35px;
+}
+.style-two .video-icon {
+    top: -62px;
+    left: 38%;
+}
+.donate-campaigns-items {
+    display: block;
+}
+.donate-items-content {
+    padding: 20px 30px 40px;
+}
+.donate-section-title h2 {
+    font-size: 24px;
+    line-height: 34px;
+}
+.donate-list .owl-nav {
+    top: -27%;
+    right: 15px;
+}
+
+/*service section*/
+.service-section .charina-section-title.white {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/*counter section*/
+.counter-section {
+    text-align: center;
+}
+.counter-title {
+    left: 0;
+    right: 0;
+}
+.counter-title h1 {
+    font-size: 33px;
+}
+.counter-single-box.up {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.counter-single-box.upper2 {
+    margin-top: 0;
+}
+.counter-icon {
+    float: inherit;
+    padding-right: 0;
+    margin-bottom: 15px;
+}
+
+/*mission & vission*/
+.tabs li a {
+    padding: 3px 25px;
+    font-size: 15px;
+    margin-right: 10px;
+}
+
+.charina-single-mission-items {
+    display: block;
+    padding: 55px 55px 55px;
+}
+.charina-mission-content {
+    padding: 20px 0 0 22px;
+}
+.mission-title h3 {
+    font-size: 23px;
+    line-height: 34px;
+}
+.charina-mission-thumb img {
+    width: 100%;
+}
+.mission-items-desc p {
+    font-size: 15px;
+}
+.mission-shape {
+    top: 7%;
+    left: 10%;
+}
+
+/*call do action area*/
+
+.call-do-title h2 {
+    font-size: 40px;
+}
+.style-two.call-to-action .charina-section-title.white {
+    text-align: center;
+}
+.style-two.call-to-action .charina-button.text-right {
+    text-align: center !important;
+}
+.charina-button.text-right {
+    text-align: center !important;
+    margin-top: 30px;
+}
+.call-to-shape {
+    right: 40%;
+    top: -103px;
+}
+.style-three.call-to-action {
+    text-align: center;
+}
+.style-three.call-to-action .call-to-shape {
+    top: -74px;
+}
+.call-to-title h2 {
+    font-size: 25px;
+}
+
+.col-lg-6.col-md-6.pl-60.responsive {
+    padding-left: 15px !important;
+}
+
+/*brand section*/
+.brand-section {
+    padding: 80px 0 80px;
+}
+
+/*blog section*/
+
+
+.charina-blog-thumb img {
+    width: 100%;
+}
+.blog-title h2 a {
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.blog-title2 h3 a {
+    font-size: 20px;
+}
+
+/*footer section*/
+.footer-info-desc p {
+    font-size: 14px;
+}
+
+.footer-shape2 {
+    right: 26px;
+    top: -65px;
+}
+.footer-shape {
+    bottom: -80px;
+    left: 48px;
+}
+
+.footer-bottom-area {
+    text-align: center;
+    padding: 20px 0 18px;
+}
+
+.footer-bottom-menu.text-right {
+    text-align: center !important;
+}
+iframe {
+    width: 100%;
+}
+.donations-detials-title h2 a {
+    font-size: 23px;
+}
+.donation-description p {
+    font-size: 15px;
+}
+
+.post-button a {
+    top: -182px;
+}
+.organizer-items {
+    margin-top: 30px;
+}
+
+.breatcam-title h1 {
+    font-size: 32px;
+    color: #fff;
+    padding: 1px 0 0;
+}
+.donar-single-box {
+    margin-bottom: 20px;
+}
+.style-three .events-single-box {
+    display: block;
+}
+.style-three .event-title h3 {
+    font-size: 21px;
+}
+.event-thumb {
+    margin-bottom: 20px;
+}
+.event-details-items {
+    margin-top: 30px;
+}
+.widget-title2 h3 {
+    font-size: 25px;
+}
+.charina-button a {
+    padding: 14px 38px;
+    font-size: 15px;
+}
+.widget_search {
+    margin-top: 30px;
+}
+.sidebar-title h1 {
+    font-size: 22px;
+}
+.contact-form-thumb img {
+    width: 100%;
+    margin-top: 30px;
+}
+.row.contact-bg {
+    padding: 25px 35px 45px;
+}
+.blogs-icon {
+    float: inherit;
+    padding-right: 25px;
+}
+.blogs-descriptions p {
+    font-size: 15px;
+}
+.social-icon-list.text-right {
+    text-align: left !important;
+    padding-top: 25px;
+}
+
+
+
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+.charina_nav_manu {
+    display: none;
+}
+.header_top_menu {
+    display: none;
+}
+/*slider area*/
+.hero-section {
+    height: 690px;
+    text-align: center;
+}
+.hero-sub-title h5 {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.hero-title h1 {
+    font-size: 28px;
+    line-height: 34px;
+}
+.hero-button {
+    margin-top: 34px;
+}
+.hero-button {
+    margin-top: 10px;
+}
+.hero-button a {
+    font-size: 13px;
+    padding: 12px 34px;
+}
+.owl-nav {
+    top: 68%;
+    left: 11%;
+}
+.responsive .owl-nav {
+    top: 52%;
+    left: 77%;
+}
+.video-icon {
+    left: 77%;
+}
+
+.hero-shape {
+    left: 195px;
+}
+
+/*feature section*/
+
+.feature-title h3 {
+    font-size: 22px;
+}
+.feature-description p {
+    font-size: 14px;
+}
+
+.feature-section .charina-section-title h1 {
+    font-size: 21px;
+    line-height: 30px;
+}
+.feature-section .charina-section-title h4 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+/*section title*/
+.charina-section-title h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.charina-section-title h4 {
+    font-size: 15px;
+}
+.charina-section-title p {
+    font-size: 15px;
+}
+.about-section .charina-section-title h1 {
+    font-size: 21px;
+    line-height: 34px;
+}
+
+
+/*about section*/
+.about-thumb img {
+    width: 100%;
+}
+.about-thumb {
+    margin: 0;
+}
+.about-thumb2 img {
+    width: 100%;
+}
+.about-thumb2 {
+    margin: 0;
+}
+.about-thumb2 {
+    left: 0;
+}
+.about-shape {
+    bottom: 8%;
+}
+.about-three .about-thumb2 {
+    left: 0;
+}
+.charina-description p {
+    font-size: 15px;
+    line-height: 28px;
+}
+.charina-check-list p {
+    font-size: 15px;
+}
+.about-three.about-section .charina-section-title h1 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.charina-button a {
+    font-size: 14px;
+}
+.about-item-content h3 {
+    font-size: 18px;
+}
+.items-icon {
+    padding-right: 20px;
+}
+.about-item-content p {
+    font-size: 13px;
+    width: 96%;
+}
+.upper.charina-check-list p {
+    margin-bottom: 6px;
+    font-size: 12px;
+}
+
+/*abour progress*/
+.progress-ber-plugin {
+    padding: 40px 12px 13px;
+}
+p.progress-text {
+    padding-left: 22px;
+}
+.progress-text p {
+    font-size: 12px;
+}
+.progress-text span {
+    font-size: 11px;
+}
+
+
+
+/*service section*/
+.service-section.style-two {
+    text-align: center;
+}
+.service-section.style-two .charina-section-title {
+    margin-bottom: 30px;
+}
+
+
+
+/*event section*/
+.events-section .charina-section-title h1 {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.event-title h3 a {
+    font-size: 17px;
+    line-height: 28px;
+}
+
+.events-section .events-content {
+    padding: 22px 15px 0 20px;
+}
+.event-title h3 {
+    font-size: 18px;
+}
+.event-text p span {
+    padding-left: 10px;
+}
+.event-date {
+    display: none;
+}
+
+.event-shape {
+    left: 32%;
+    top: 1%;
+}
+
+.events-section .charina-button {
+    margin-bottom: 40px;
+}
+
+.style-two.events-section {
+    padding: 70px 0px 40px;
+}
+.event-list .owl-nav {
+    top: -21%;
+    right: 6%;
+}
+.style-two .event-title h3 {
+    font-size: 18px;
+    line-height: 28px;
+    padding: 17px 0px 30px 0;
+}
+.style-two .event-title h4 {
+    font-size: 21px;
+}
+.style-two .event-title h4 span {
+    font-size: 32px;
+    font-weight: 400;
+    height: 58px;
+    width: 58px;
+    line-height: 58px;
+}
+.style-two .event-title h3 a {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.events-single-box {
+    display: block;
+}
+
+/*volunteer section*/
+
+.volunteers-section {
+    padding: 60px 0 50px;
+}
+.volunteer-title h2 {
+    font-size: 20px;
+}
+.volunteer-text span {
+    font-size: 15px;
+}
+.style-two.volunteers-section .charina-section-title h1 {
+    font-size: 27px;
+    line-height: 34px;
+}
+
+/*testimonial*section*/
+
+.testimonial-section .charina-section-title h1 {
+    font-size: 24px;
+    line-height: 36px;
+}
+.testimonial-single-box {
+    padding: 66px 25px 27px;
+    margin-bottom: 35px;
+}
+.testimonial-title h4 {
+    font-size: 20px;
+}
+.testi-title h4 {
+    font-size: 20px;
+}
+.testimonial-desc p {
+    font-size: 15px;
+}
+
+.testi-shape {
+    top: 50px;
+}
+
+.testimonial-section .col-lg-6.col-md-6.pl-50 {
+    padding-left: 15px !important;
+}
+
+/*galary section*/
+
+.galary-text {
+    transform: translateX(12%);
+}
+.galary-text a {
+    padding: 20px 25px;
+    font-size: 17px;
+}
+.galary-title h2 {
+    font-size: 28px;
+}
+.style-two .galary-title h2 {
+    font-size: 26px;
+}
+.style-two .galary-text {
+    transform: translateX(7%);
+}
+.galary-title h4 a {
+    font-size: 20px;
+}
+.style-three .galary-title {
+    left: 32px;
+}
+
+/*video section*/
+.video-title h1 {
+    font-size: 40px;
+}
+
+/*donate section*/
+.donate-section {
+    padding: 0 0 65px;
+}
+.donate-section.style-two {
+    text-align: center;
+    background-position: center right;
+    padding: 150px 0 100px;
+}
+
+.video-button {
+    margin-bottom: 35px;
+}
+.style-two .video-icon {
+    top: -62px;
+    left: 38%;
+}
+.donate-list .owl-nav {
+    top: -18%;
+    right: 15px;
+}
+.donate-section.style-two .charina-section-title h1 {
+    font-size: 22px;
+    line-height: 35px;
+}
+.donate-section.style-two .charina-section-title p {
+    font-size: 14px;
+}
+.donate-section.style-two.upper .progress-text span {
+    font-size: 14px;
+}
+.donate-section.style-two.upper .progress-text p {
+    font-size: 13px;
+}
+.donate-date-text {
+    padding-left: 0;
+    margin-top: 20px;
+}
+
+.donate-campaigns-items {
+    display: block;
+}
+.donate-items-content {
+    padding: 20px 30px 40px;
+}
+.donate-section-title h2 {
+    font-size: 24px;
+    line-height: 34px;
+}
+.donate-list .owl-nav {
+    top: -18%;
+    right: 15px;
+}
+.donate-thumb2 img {
+    width: 100%;
+}
+.donate-section.style-two.upper .donate-section-title h2 {
+    font-size: 17px;
+    line-height: 30px;
+}
+.donate-section-title p {
+    font-size: 15px;
+}
+.donate-title h3 a {
+    font-size: 20px;
+    line-height: 26px;
+}
+
+/*service section*/
+.service-section .charina-section-title.white {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/*counter section*/
+.counter-section {
+    text-align: center;
+}
+.counter-title {
+    left: 0;
+    right: 0;
+}
+.counter-title h1 {
+    font-size: 33px;
+}
+.counter-single-box.up {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.counter-single-box.upper2 {
+    margin-top: 0;
+}
+.counter-icon {
+    float: inherit;
+    padding-right: 0;
+    margin-bottom: 15px;
+}
+
+.counter-section.style-two .charina-section-title h1 {
+    font-size: 20px;
+    line-height: 35px;
+}
+
+/*mission & vission*/
+.tabs li a {
+    padding: 2px 22px;
+    font-size: 12px;
+    margin-right: 10px;
+}
+
+.charina-single-mission-items {
+    display: block;
+    padding: 55px 30px 55px;
+}
+.charina-mission-content {
+    padding: 20px 0 0 0px;
+}
+.mission-title h3 {
+    font-size: 20px;
+    line-height: 31px;
+}
+.charina-mission-thumb img {
+    width: 100%;
+}
+.mission-items-desc p {
+    font-size: 15px;
+}
+.mission-shape {
+    top: 2%;
+    left: 12%;
+}
+.mission-sectoin .charina-section-title h1 {
+    font-size: 23px;
+    line-height: 25px;
+}
+.mission-list ul li {
+    font-size: 15px;
+}
+.mission-button a {
+    padding: 11px 27px;
+    font-size: 15px;
+}
+
+/*call do action area*/
+.call-to-action {
+    text-align: center;
+}
+.call-to-action .col-lg-6.col-md-6.pl-60.responsive {
+    padding-left: 20px;
+}
+.call-to-title h2 {
+    font-size: 25px;
+    line-height: 36px;
+}
+.call-to-icon {
+    float: inherit;
+}
+
+.call-to-shape {
+    top: -106px;
+}
+.style-two.call-to-action .charina-section-title h1 {
+    font-size: 20px;
+    line-height: 34px;
+}
+
+.style-three.call-to-action .charina-section-title h1 {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.style-three.call-to-action .call-to-shape {
+    top: -74px;
+}
+.call-to-desc p {
+    font-size: 15px;
+}
+
+.charina-button.text-right {
+    text-align: center !important;
+    margin-top: 25px;
+}
+/*brand section*/
+.brand-section {
+    padding: 80px 0 80px;
+}
+
+/*blog section*/
+
+.blog-section .charina-section-title h1 {
+    font-size: 23px;
+    line-height: 35px;
+}
+
+.charina-blog-thumb img {
+    width: 100%;
+}
+.blog-title h2 a {
+    font-size: 18px;
+    line-height: 27px;
+}
+
+/*footer section*/
+.footer-section {
+    text-align: center;
+}
+.footer-info-desc p {
+    font-size: 14px;
+}
+.company-info-desc p {
+    font-size: 15px;
+}
+.footer-shape2 {
+    right: 26px;
+    top: -65px;
+}
+.footer-shape {
+    bottom: -80px;
+    left: 48px;
+}
+
+.footer-bottom-area {
+    text-align: center;
+    padding: 20px 0 18px;
+}
+
+.footer-bottom-menu.text-right {
+    text-align: center !important;
+}
+.footer-bottom-content-copy p {
+    font-size: 15px;
+}
+iframe {
+    width: 100%;
+}
+
+.contact-us-section .charina-section-title h1 {
+    font-size: 19px;
+    line-height: 28px;
+}
+
+.contact-info-section .charina-section-title h1 {
+    font-size: 23px;
+}
+.donations-detials-title h2 a {
+    font-size: 23px;
+}
+.donation-description p {
+    font-size: 15px;
+}
+
+.post-button a {
+    top: -210px;
+}
+.organizer-items {
+    margin-top: 30px;
+}
+
+.breatcam-title h1 {
+    font-size: 25px;
+}
+.breatcam-menu ul li {
+    font-size: 14px;
+}
+.donar-single-box {
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.donation-details-section .charina-button {
+    padding: 0px 30px 45px 0;
+}
+.responsive.charina-button a {
+    font-size: 14px;
+    margin-top: 0;
+}
+.responsive.charina-button {
+    padding: 0px 30px 45px 0;
+    margin-top: 0;
+}
+.donation-list ul li {
+    font-size: 12px;
+}
+.donar-title h5 {
+    font-size: 15px;
+}
+.post-comment-thumb {
+    float: inherit;
+    margin-bottom: 20px;
+}
+.forms-title h1 {
+    font-size: 26px;
+}
+.widget-title2 h3 {
+    font-size: 25px;
+}
+.events-thumb img {
+    width: 100%;
+}
+.style-three .event-title h3 {
+    font-size: 18px;
+    line-height: 28px;
+}
+.style-three .event-discription p {
+    font-size: 14px;
+}
+.events-content {
+    padding: 22px 0px 0 0px;
+}
+.event-thumb {
+    margin-bottom: 20px;
+}
+.event-details-items {
+    margin-top: 30px;
+}
+.widget-title2 h3 {
+    font-size: 25px;
+}
+.charina-button a {
+    padding: 14px 38px;
+    font-size: 15px;
+}
+.up.donation-description p {
+    font-size: 15px;
+}
+.donate-section .donations-detials-title.pt-25 {
+    padding-top: 0 !important;
+}
+.rpost-content h4 a {
+    font-size: 14px;
+    line-height: 22px;
+}
+.rpost-title {
+    padding-left: 12px;
+}
+.widget-items {
+    padding: 28px 25px 10px;
+}
+.widget_search {
+    margin-top: 30px;
+}
+.blog-title2 h3 a {
+    font-size: 18px;
+}
+.blogs-content {
+    padding: 20px 20px 75px;
+}
+.blog-description2 p {
+    font-size: 15px;
+}
+.blogs-section {
+    padding: 50px 0 16px;
+}
+.widget_search {
+    margin-top: 30px;
+}
+.sidebar-title h1 {
+    font-size: 18px;
+}
+.contact-form-thumb img {
+    width: 100%;
+    margin-top: 30px;
+}
+.row.contact-bg {
+    padding: 25px 35px 45px;
+}
+.form-section .charina-section-title h1 {
+    font-size: 20px;
+    line-height: 27px;
+}
+.blogs-descriptions p {
+    font-size: 15px;
+}
+.social-icon-list.text-right {
+    text-align: left !important;
+    padding-top: 25px;
+}
+.blogs-icon {
+    float: inherit;
+    padding-bottom: 20px;
+}
+.special-desc p {
+    font-size: 14px;
+}
+.up.donations-detials-title h2 a {
+    font-size: 24px;
+}
+.donate-description p {
+    font-size: 15px;
+}
+
+
+
+}
+
+
+

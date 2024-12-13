@@ -1,0 +1,102 @@
+[
+  {
+    "sn": 1,
+    "name": "Coastal Carolina Regional Airport",
+    "destination": "New Bern",
+    "checkIn": "8/17/2023",
+    "checkOut": "8/21/2023",
+    "roomType": "KEWN",
+    "totalCost": "$15898.33",
+    "actions": ""
+  },
+  {
+    "sn": 2,
+    "name": "Paramakatoi Airport",
+    "destination": "Paramakatoi",
+    "checkIn": "11/16/2023",
+    "checkOut": "9/17/2023",
+    "roomType": "SYPM",
+    "totalCost": "$7503.31",
+    "actions": ""
+  },
+  {
+    "sn": 3,
+    "name": "Robinson River Airport",
+    "destination": "Robinson River",
+    "checkIn": "5/9/2023",
+    "checkOut": "5/10/2023",
+    "roomType": "SYPM",
+    "totalCost": "$14965.44",
+    "actions": ""
+  },
+  {
+    "sn": 4,
+    "name": "Florø Airport",
+    "destination": "Florø",
+    "checkIn": "7/9/2023",
+    "checkOut": "10/28/2023",
+    "roomType": "ENFL",
+    "totalCost": "$8758.20",
+    "actions": ""
+  },
+  {
+    "sn": 5,
+    "name": "Muan International Airport",
+    "destination": "Piseo-ri (Muan)",
+    "checkIn": "9/30/2023",
+    "checkOut": "7/13/2023",
+    "roomType": "RKJB",
+    "totalCost": "$10101.98",
+    "actions": ""
+  },
+  {
+    "sn": 6,
+    "name": "Four Corners Regional Airport",
+    "destination": "Farmington",
+    "checkIn": "6/28/2023",
+    "checkOut": "11/27/2023",
+    "roomType": "KFMN",
+    "totalCost": "$14855.84",
+    "actions": ""
+  },
+  {
+    "sn": 7,
+    "name": "Blanding Municipal Airport",
+    "destination": "Blanding",
+    "checkIn": "4/19/2024",
+    "checkOut": "6/24/2023",
+    "roomType": "KBDG",
+    "totalCost": "$907.65",
+    "actions": ""
+  },
+  {
+    "sn": 8,
+    "name": "Karlstad Airport",
+    "destination": "Karlstad",
+    "checkIn": "10/21/2023",
+    "checkOut": "4/9/2024",
+    "roomType": "ESOK",
+    "totalCost": "$9757.17",
+    "actions": ""
+  },
+  {
+    "sn": 9,
+    "name": "Cochrane Airport",
+    "destination": "Cochrane",
+    "checkIn": "12/18/2023",
+    "checkOut": "3/30/2024",
+    "roomType": "SCHR",
+    "totalCost": "$9267.58",
+    "actions": ""
+  },
+  {
+    "sn": 10,
+    "name": "Incheon International Airport",
+    "destination": "Seoul",
+    "checkIn": "12/3/2023",
+    "checkOut": "8/6/2023",
+    "roomType": "RKSI",
+    "totalCost": "$11029.52",
+    "actions": ""
+  }
+]

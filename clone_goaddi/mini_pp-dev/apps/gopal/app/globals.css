@@ -1,0 +1,764 @@
+@import url("https://fonts.googleapis.com/css2?family=Satoshi:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.cdnfonts.com/css/satoshi");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 216, 98%, 52%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border font-satoshi;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  @keyframes scroll-x {
+    to {
+      transform: translateX(calc(-50% - 0.5rem));
+    }
+  }
+
+  .scroll-x {
+    animation: scroll-x var(--animation-duration, 4s)
+      var(--animation-direction, forwards) linear infinite;
+  }
+
+  /* Just for demonstration purpose */
+  .scroll-x {
+    width: 200px;
+    height: 50px;
+    background-color: #ccc;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+
+@layer utilities {
+  .br {
+    @apply border border-red-400;
+  }
+
+  .bb {
+    @apply border border-blue-400;
+  }
+  .centered {
+    @apply flex items-center justify-center;
+  }
+}
+
+@layer components {
+  .marquee {
+    width: 100%;
+    height: 12rem;
+    pointer-events: none;
+    background: black;
+    overflow: hidden;
+    box-shadow: 0 2rem 2rem 0.4rem rgba(0, 0, 0, 0.2);
+  }
+
+  .marquee__inner-wrap {
+    height: 100%;
+    width: 100%;
+  }
+
+  .marquee span {
+    text-align: center;
+    color: lightgray;
+    font-weight: 400;
+    white-space: nowrap;
+    font-size: max(2vw, 2.4rem);
+    line-height: 1.2;
+    font-weight: 700;
+    padding: 1vh 1vw 0;
+    text-transform: uppercase;
+  }
+
+  .marquee__img {
+    width: max(8rem, 12vw);
+    height: 8rem;
+    margin: 0 4vw;
+    border-radius: 100rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #444;
+    filter: grayscale(0.6);
+  }
+
+  .marquee__inner {
+    height: 100%;
+    width: fit-content;
+    align-items: center;
+    display: flex;
+    position: relative;
+    animation: marquee 50s linear infinite;
+    will-change: transform;
+  }
+
+  .phoneInput {
+    --react-international-phone-border-radius: 4px;
+    --react-international-phone-border-color: #9ca3af;
+    --react-international-phone-height: 48px;
+    --react-international-phone-width: 100%;
+    --react-international-phone-background-color: #fff;
+    --react-international-phone-text-color: #000;
+    --react-international-phone-selected-dropdown-item-background-color: #fff;
+    --react-international-phone-country-selector-background-color-hover: #fff;
+  }
+  .react-international-phone-country-selector {
+    position: relative;
+    width: 100%;
+  }
+  .react-international-phone-input-container {
+    display: flex;
+    width: 100%;
+  }
+
+  @keyframes marquee {
+    to {
+      transform: translateX(-50%);
+    }
+  }
+}
+
+.react-international-phone-input-container
+  .react-international-phone-country-selector-button {
+  padding: 0 14px;
+}
+
+* {
+  accent-color: #0d6efd !important;
+}
+
+body {
+  background-color: #f0f2f5;
+  scroll-behavior: smooth;
+}
+
+@media screen and (max-width: 640px) {
+  body {
+    background-color: #f0f2f5;
+  }
+}
+
+.no-scrollbar{
+  -ms-overflow-style: none; /* Fix for Internet Explorer and Edge */
+  scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar { 
+  /* Fix for Chrome, Safari, and Opera */
+  display: none;
+}
+
+
+.nav_glass {
+  background: rgba(255, 255, 255, 0.27);
+  /* border-radius: 16px; */
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(10.9px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* Styles for scrollbar track (works on Firefox, Safari, Edge) */
+body::-webkit-scrollbar-track {
+  background-color: #f0f2f5; /* Light gray background */
+  border-radius: 5px; /* Rounded corners */
+}
+
+body::-moz-scrollbar-track {
+  background-color: #f0f2f5; /* Light gray background */
+  border-radius: 5px; /* Rounded corners */
+}
+
+/* Styles for scrollbar thumb (works on Firefox, Safari, Edge) */
+body::-webkit-scrollbar-thumb {
+  background-color: #0d6efd; /* Dark gray background */
+  border-radius: 5px; /* Rounded corners */
+}
+
+body::-moz-scrollbar-thumb {
+  background-color: #0d6efd; /* Dark gray background */
+  border-radius: 5px; /* Rounded corners */
+}
+
+/* Styles for scrollbar track (works on Chrome, Opera) */
+body::-webkit-scrollbar {
+  width: 8px; /* Set width of the scrollbar */
+}
+
+/* Styles for scrollbar thumb (works on Chrome, Opera) */
+body::-webkit-scrollbar-thumb {
+  background-color: #0d6efd; /* Dark gray background */
+}
+
+input[type="text"] {
+  outline: none !important;
+}
+
+.rc-textarea {
+  width: 100%;
+}
+
+.onboard-nav {
+  border: 2px solid #e4e7ec;
+}
+.onboard-nav .page {
+  border-right: 1px solid #e4e7ec;
+}
+.onboard-nav .page:last-child {
+  border-right: none;
+}
+
+.profile-setup div:last-child {
+  grid-column: 1 / 3;
+  grid-row: span 2;
+}
+
+.interest input[type="checkbox"]:checked ~ label {
+  border: 2px solid #0d6efd;
+  background-color: #e7f0ff;
+}
+
+.interest input[type="checkbox"]:checked ~ label span,
+.interest input[type="checkbox"]:checked ~ label .interest-icon {
+  color: #0d6efd;
+  font-weight: 600;
+}
+
+.rdp-vhidden {
+  display: none !important;
+}
+.rdp-caption_dropdowns {
+  display: flex;
+}
+.data-[state="checked"] {
+  background-color: red !important;
+}
+.plan-card {
+  background: linear-gradient(125.49deg, #448bf4 0.67%, #0d6efd 98.07%);
+}
+
+.landing-nav {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 500ms;
+}
+
+.rc-mentions {
+  display: inline-block;
+  position: relative;
+  border: none;
+  white-space: pre-wrap;
+}
+.rc-mentions > textarea,
+.rc-mentions-measure {
+  font-size: inherit;
+  font-size-adjust: inherit;
+  font-style: inherit;
+  font-variant: inherit;
+  font-stretch: inherit;
+  font-weight: inherit;
+  font-family: inherit;
+  padding: 0;
+  margin: 0;
+  line-height: inherit;
+  vertical-align: top;
+  overflow: inherit;
+  word-break: inherit;
+  white-space: inherit;
+  word-wrap: break-word;
+  overflow-x: initial;
+  overflow-y: auto;
+  text-align: inherit;
+  letter-spacing: inherit;
+  tab-size: inherit;
+  direction: inherit;
+}
+.rc-mentions > textarea {
+  border: none;
+  border: none;
+  width: 100%;
+  min-height: 150px;
+  @apply scrollbar scrollbar-track-gray-100 scrollbar-thumb-slate-300 scrollbar-thumb-rounded-full  scrollbar-track-rounded-full scrollbar-corner-border;
+}
+.rc-mentions-measure {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  pointer-events: none;
+  color: transparent;
+  z-index: 997;
+  border: none;
+}
+.rc-mentions-dropdown {
+  position: absolute;
+  z-index: 998;
+}
+.rc-mentions-dropdown-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.rc-mentions-dropdown-menu-item {
+  cursor: pointer;
+}
+.rc-mentions {
+  /* font-size: 20px;
+  border: 1px solid #999;
+  border: none; */
+  overflow: hidden;
+}
+.rc-mentions-dropdown {
+  border: 1px solid #999;
+  border-radius: 3px;
+  background: #fff;
+}
+.rc-mentions-dropdown-menu-item {
+  padding: 4px 8px;
+}
+.rc-mentions-dropdown-menu-item-active {
+  background: #e6f7ff;
+}
+.rc-mentions-dropdown-menu-item-disabled {
+  opacity: 0.5;
+}
+
+.mentionit {
+  text-shadow:
+    1px 1px 1px white,
+    1px -1px 1px white,
+    -1px 1px 1px white,
+    -1px -1px 1px white;
+}
+
+.Mention_container:first-child:first-child:first-child {
+  z-index: 99;
+}
+
+.mentions__mention {
+  position: relative;
+  z-index: 1;
+  color: blue;
+  /* text-shadow:
+    1px 1px 1px white,
+    1px -1px 1px white,
+    -1px 1px 1px white,
+    -1px -1px 1px white; */
+  background-color: white;
+  text-decoration: underline;
+  pointer-events: none;
+}
+
+/* width */
+.input__tag::-webkit-scrollbar {
+  width: 14px;
+}
+
+/* Track */
+.input__tag::-webkit-scrollbar-track {
+  @apply bg-gray-100;
+  border-radius: 32px;
+}
+
+/* Handle */
+.input__tag::-webkit-scrollbar-thumb {
+  @apply bg-slate-300;
+
+  border-radius: 32px;
+}
+
+.video-wrapper {
+  position: relative;
+}
+
+.action-icon {
+  width: 1.5em;
+  height: auto;
+  margin-right: 1.2em;
+  cursor: pointer;
+}
+
+.action-icon-right {
+  width: 1.5em;
+  cursor: pointer;
+}
+
+.video {
+  width: 100%;
+  display: block;
+}
+
+.controls {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.video-control {
+  width: 100px;
+  transition: opacity 200ms linear;
+}
+
+.control-shown {
+  opacity: 1;
+}
+
+.control-hidden {
+  opacity: 0;
+}
+
+/* Multi select styling */
+#multi-select .css-1hb7zxy-IndicatorsContainer {
+  display: none !important;
+}
+
+#multi-select .css-13cymwt-control {
+  background-color: transparent;
+  border: none;
+  min-height: 50px;
+  height: 50px;
+}
+
+#multi-select .css-1p3m7a8-multiValue {
+  background-color: #d0d5dd;
+}
+
+#multi-select .css-t3ipsp-control {
+  border: none;
+  min-height: 50px;
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.medical-process {
+  position: relative;
+}
+.medical-process:nth-child(2) {
+  margin-top: 104px;
+}
+.medical-process:nth-child(3) {
+  margin-top: -46px;
+}
+
+.medical-process:nth-child(4) {
+  margin-top: 82px;
+}
+
+@media screen and (max-width: 640px) {
+  .medical-process:nth-child(2) {
+    margin-top: 0;
+  }
+  .medical-process:nth-child(3) {
+    margin-top: 0;
+  }
+
+  .medical-process:nth-child(4) {
+    margin-top: 0;
+  }
+}
+
+@layer {
+  .center {
+    @apply justify-center place-items-center;
+  }
+
+  .flex-center {
+    @apply flex center;
+  }
+
+  .flex-col-center {
+    @apply flex-col flex center;
+  }
+
+  .default-transition {
+    @apply transition duration-500 ease-in-out;
+  }
+}
+
+/* checkbox inpiut */
+.custom_checkbox_container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.custom_checkbox_container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.custom_checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: white;
+  border: 1.71px solid #344054;
+  border-radius: 4px;
+}
+
+/* On mouse-over, add a grey background color */
+.custom_checkbox_container:hover input ~ .custom_checkmark {
+  background-color: white;
+}
+
+/* When the checkbox is checked, add a blue background */
+.custom_checkbox_container input:checked ~ .custom_checkmark {
+  background-color: #2196f3;
+}
+
+/* Create the custom_checkmark/indicator (hidden when not checked) */
+.custom_checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the custom_checkmark when checked */
+.custom_checkbox_container input:checked ~ .custom_checkmark:after {
+  display: block;
+}
+
+/* Style the custom_checkmark/indicator */
+.custom_checkbox_container .custom_checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+/* The container */
+.radio_container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default radio button */
+.radio_container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+.radio_checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: white;
+  border-radius: 50%;
+  border: 1.71px solid #344054;
+}
+
+/* On mouse-over, add a grey background color */
+.radio_container:hover input ~ .radio_checkmark {
+  background-color: white;
+}
+
+/* When the radio button is checked, add a blue background */
+.radio_container input:checked ~ .radio_checkmark {
+  background-color: #2196f3;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.radio_checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.radio_container input:checked ~ .radio_checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.radio_container .radio_checkmark:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+
+/* This is small size of the radio */
+/* Create a custom radio button */
+.radio_checkmark__sm {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  height: 15px;
+  width: 15px;
+  background-color: white;
+  border-radius: 50%;
+  border: 1.71px solid #344054;
+}
+
+/* On mouse-over, add a grey background color */
+.radio_container:hover input ~ .radio_checkmark__sm {
+  background-color: white;
+}
+
+/* When the radio button is checked, add a blue background */
+.radio_container input:checked ~ .radio_checkmark__sm {
+  background-color: #2196f3;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.radio_checkmark__sm:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.radio_container input:checked ~ .radio_checkmark__sm:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.radio_container .radio_checkmark__sm:after {
+  /* top: 9px;
+  left: 9px; */
+  top: 3px;
+  left: 3px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+
+.header {
+  background-image: url(/assets/immigration/top_banner.png);
+  background-size: cover;
+}
+
+.banner {
+  background-image: url(/assets/immigration/details/img_6.png);
+  background-size: cover;
+}
+
+.details-header {
+  background-image: url("/assets/immigration/details/more_details.png");
+  background-size: cover;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+.beach_bush_img{
+  background: 
+  linear-gradient(rgba(0, 84, 228,.8), rgba(0, 84, 228,.8)), url("/assets/isolation_mode.png");
+  ;
+  background-size: cover;
+}
+
+
+/*  */

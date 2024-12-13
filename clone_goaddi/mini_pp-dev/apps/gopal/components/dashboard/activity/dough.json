@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Paid",
+    "value": 50
+  },
+  {
+    "label": "Pending",
+    "value": 27
+  },
+  {
+    "label": "Declined",
+    "value": 23
+  }
+]

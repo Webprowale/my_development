@@ -1,0 +1,50 @@
+[
+  {
+    "label": "Jan",
+    "amount": 20
+  },
+  {
+    "label": "Feb",
+    "amount": 18
+  },
+  {
+    "label": "Mar",
+    "amount": 30
+  },
+  {
+    "label": "Apr",
+    "amount": 40
+  },
+  {
+    "label": "May",
+    "amount": 21
+  },
+  {
+    "label": "Jun",
+    "amount": 28
+  },
+  {
+    "label": "Jul",
+    "amount": 22
+  },
+  {
+    "label": "Aug",
+    "amount": 38
+  },
+  {
+    "label": "Sep",
+    "amount": 35
+  },
+  {
+    "label": "Oct",
+    "amount": 45
+  },
+  {
+    "label": "Nov",
+    "amount": 10
+  },
+  {
+    "label": "Dec",
+    "amount": 78
+  }
+]

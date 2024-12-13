@@ -1,0 +1,74 @@
+[
+  {
+    "label": "Jan",
+    "vac": 20,
+    "flight": 30,
+    "hotels": 32
+  },
+  {
+    "label": "Feb",
+    "vac": 18,
+    "flight": 30,
+    "hotels": 21
+  },
+  {
+    "label": "Mar",
+    "vac": 30,
+    "flight": 30,
+    "hotels": 56
+  },
+  {
+    "label": "Apr",
+    "vac": 40,
+    "flight": 30,
+    "hotels": 87
+  },
+  {
+    "label": "May",
+    "vac": 21,
+    "flight": 30,
+    "hotels": 21
+  },
+  {
+    "label": "Jun",
+    "vac": 28,
+    "flight": 30,
+    "hotels": 34
+  },
+  {
+    "label": "Jul",
+    "vac": 22,
+    "flight": 30,
+    "hotels": 54
+  },
+  {
+    "label": "Aug",
+    "vac": 38,
+    "flight": 30,
+    "hotels": 57
+  },
+  {
+    "label": "Sep",
+    "vac": 35,
+    "flight": 45,
+    "hotels": 49
+  },
+  {
+    "label": "Oct",
+    "vac": 45,
+    "flight": 44,
+    "hotels": 50
+  },
+  {
+    "label": "Nov",
+    "vac": 10,
+    "flight": 29,
+    "hotels": 34
+  },
+  {
+    "label": "Dec",
+    "vac": 78,
+    "flight": 40,
+    "hotels": 54
+  }
+]

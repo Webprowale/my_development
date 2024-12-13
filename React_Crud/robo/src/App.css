@@ -1,0 +1,119 @@
+
+.hero{
+  background: linear-gradient(to left,  #1D2671, #C33764);
+}
+.her0Bold{
+  line-height: 1em;
+  font-size: 3.5em;
+  font-weight: 700;
+}
+.hBtn{
+  background-color: #f2f2f2;
+  color: #1D2671;
+  padding: 10px 40px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+.card-body{
+  border: none;
+  outline: none;
+  background-color:  whitesmoke; 
+}
+.card {
+  border: none;
+  box-shadow: none;
+  outline: none;
+  
+}
+.card-title{
+  background: linear-gradient(to left,  #1D2671, #C33764);
+  padding: 25px 10px;
+  text-align: center;
+  width: 100px;
+  border-radius: 10px;
+  margin: 25px 0px;
+}
+.fwCard{
+  font-weight: 300;
+  font-size: 0.9em;
+}
+.downBtn{
+  background-color: transparent;
+  border: 1px solid #f2f2f2;
+  outline: none;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  padding: 13px 0px;
+  width: 250px;
+  color: #f2f2f2;
+  transition: all 0.3s;
+}
+.downBtn:hover{
+  background-color: #f2f2f2;
+  color: black;
+}
+.downIcon{
+  font-size: 4rem;
+}
+.footIcon{
+  background: linear-gradient(to left,  #1D2671, #C33764);
+  border-radius: 50%;
+  color: #f2f2f2;
+  padding: 20px;
+  font-size: 
+  2.5rem;
+}
+.login{
+  padding-bottom: 200px;
+  padding-top: 100px;
+}
+.formBody{
+  background-color: #f2f2f2;
+  width: 500px;
+  padding: 35px 25px;
+  border-radius: 13px;
+  position: relative;
+}
+.formBtn{
+  font-size: 1.4em;
+  font-weight: 600;
+  border: none;
+  outline: none;
+}
+input{
+  border: 0;
+  outline: 0;
+  background-color:transparent;
+  padding:0px 30px;
+  border-bottom: 1px solid #C33764;
+}
+input:focus{
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+input::placeholder{
+  color: black;
+}
+.inputBody{
+  background-color:transparent;
+  width: 400px;
+  padding: 9px;
+}
+.regText{
+  font-size: 0.8em;
+}
+.shareLink{
+  font-size: 0.69em;
+  color: black;
+}
+
+
+@media (max-width:834px) {
+  .heroRow{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}

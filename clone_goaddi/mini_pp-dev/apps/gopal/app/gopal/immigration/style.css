@@ -1,0 +1,15 @@
+.header {
+  background-image: url(/assets/immigration/top_banner.png);
+  background-size: cover;
+}
+
+.banner {
+  background-image: url(/assets/immigration/details/img_6.png);
+  background-size: cover;
+}
+
+.details-header {
+  background-image: url("/assets/immigration/details/more_details.png");
+  background-size: cover;
+  background-position: center;
+}

@@ -1,0 +1,109 @@
+------------------Modified files v3.6------------------
+
+...king\king-theme\leonardo\king-theme.php
+
+...king\king-plugin\king-leo\king-leo.js
+...king\king-plugin\king-leo\king-submitai.php
+...king\king-plugin\king-leo\kingai-lang-default.php
+...king\king-plugin\king-leo\king-leo-options.php
+
+------------------Modified files v3.5------------------
+
+...king\king-theme\leonardo\king-theme.php
+
+
+...king\king-plugin\king-leo\king-leo.js
+...king\king-plugin\king-leo\king-submitai.php
+...king\king-plugin\king-leo\kingai-lang-default.php
+...king\king-plugin\king-leo\king-leo-ajax.php
+...king\king-plugin\king-leo\king-leo.min.css
+...king\king-plugin\king-leo\king-leo-options.php
+
+------------------Modified files v3------------------
+
+...king\king-theme\leonardo\king-theme.php
+...king\king-theme\leonardo\king-styles.css
+...king\king-theme\leonardo\night.css
+
+...king\king-plugin\king-leo\king-leo.js
+...king\king-plugin\king-leo\king-submitai.php
+...king\king-plugin\king-leo\kingai-lang-default.php
+...king\king-plugin\king-leo\king-leo-ajax.php
+...king\king-plugin\king-leo\king-leo.min.css
+...king\king-plugin\king-leo\king-leo-options.php
+
+
+
+------------------Modified files v2.6------------------
+...king\king-theme\leonardo\king-theme.php
+...king\king-theme\leonardo\king-styles.css
+...king\king-theme\leonardo\night.css
+
+...king\king-plugin\king-leo\king-leo.js
+...king\king-plugin\king-leo\king-submitai.php
+...king\king-plugin\king-leo\kingai-lang-default.php
+...king\king-plugin\king-leo\king-leo-ajax.php
+...king\king-plugin\king-leo\king-leo.min.css
+
+------------------Modified files v2.5------------------
+...king\king-theme\leonardo\king-theme.php
+...king\king-theme\leonardo\king-styles.css
+...king\king-theme\leonardo\night.css
+
+...king\king-plugin\king-leo\king-leo.js
+...king\king-plugin\king-leo\king-submitai.php
+...king\king-plugin\king-leo\kingai-lang-default.php
+...king\king-plugin\king-leo\king-leo-ajax.php
+...king\king-plugin\king-leo\king-leo-options.php
+...king\king-plugin\king-leo\king-leo.min.css
+
+------------------Modified files v2.2------------------
+...king\king-theme\leonardo\king-theme.php
+
+...king\king-plugin\king-leo\king-leo-options.php
+...king\king-plugin\king-leo\king-submitai.php
+...king\king-plugin\king-leo\king-leo-ajax.php
+
+------------------Modified files v2.1------------------
+...king\king-plugin\king-leo\king-leo.js
+...king\king-plugin\king-leo\king-submitai.php
+...king\king-plugin\king-leo\king-leo-ajax.php
+
+------------------Modified files v2------------------
+...king\king-theme\leonardo\king-theme.php
+
+...king\king-plugin\king-leo\king-leo.js
+...king\king-plugin\king-leo\king-submitai.php
+...king\king-plugin\king-leo\king-leo-ajax.php
+
+------------------Modified files v1.3------------------
+...king\king-theme\leonardo\king-theme.php
+
+...king\king-plugin\king-leo\king-leo.js
+...king\king-plugin\king-leo\king-submitai.php
+
+------------------Modified files v1.2------------------
+
+...king\king-plugin\king-leo\king-submitai.php
+...king\king-plugin\king-leo\kingai-lang-default.php
+...king\king-plugin\king-leo\king-leo-ajax.php
+...king\king-plugin\king-leo\king-leo-options.php
+...king\king-plugin\king-leo\king-leo.min.css
+
+
+...king\king-theme\leonardo\king-theme.php
+...king\king-theme\leonardo\king-styles.css
+...king\king-theme\leonardo\night.css
+
+------------------Modified files v1.1------------------
+
+...king\king-plugin\king-leo\king-submitai.php
+...king\king-plugin\king-leo\kingai-lang-default.php
+...king\king-plugin\king-leo\king-leo.js
+...king\king-plugin\king-leo\king-leo-ajax.php
+...king\king-plugin\king-leo\king-leo-options.php
+
+...king\king-theme\leonardo\js\main.min.js
+...king\king-theme\leonardo\king-theme.php
+...king\king-theme\leonardo\king-styles.css
+...king\king-theme\leonardo\night.css

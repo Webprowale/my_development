@@ -1,0 +1,402 @@
+[
+  {
+    "invoice": "INV-001",
+    "amount": "$11833.41",
+    "date": "2/29/2024",
+    "status": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; HTC-P715a; en-ca) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16",
+    "user": 1,
+    "action": "Redhold"
+  },
+  {
+    "invoice": "INV-002",
+    "amount": "$17277.36",
+    "date": "12/14/2023",
+    "status": "Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:15.0) Gecko/20121011 Firefox/15.0.1",
+    "user": 2,
+    "action": "Flexidy"
+  },
+  {
+    "invoice": "INV-003",
+    "amount": "$17631.39",
+    "date": "9/27/2023",
+    "status": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Ubuntu/10.04 Chromium/14.0.813.0 Chrome/14.0.813.0 Safari/535.1",
+    "user": 3,
+    "action": "Viva"
+  },
+  {
+    "invoice": "INV-004",
+    "amount": "$17800.46",
+    "date": "3/11/2024",
+    "status": "Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1",
+    "user": 4,
+    "action": "Cookley"
+  },
+  {
+    "invoice": "INV-005",
+    "amount": "$10544.19",
+    "date": "4/24/2023",
+    "status": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11",
+    "user": 5,
+    "action": "Stringtough"
+  },
+  {
+    "invoice": "INV-001",
+    "amount": "$13607.14",
+    "date": "4/22/2023",
+    "status": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:21.0.0) Gecko/20121011 Firefox/21.0.0",
+    "user": 6,
+    "action": "Overhold"
+  },
+  {
+    "invoice": "INV-002",
+    "amount": "$19139.12",
+    "date": "11/19/2023",
+    "status": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.45 Safari/535.19",
+    "user": 7,
+    "action": "Kanlam"
+  },
+  {
+    "invoice": "INV-003",
+    "amount": "$13673.52",
+    "date": "12/29/2023",
+    "status": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.186 Safari/535.1",
+    "user": 8,
+    "action": "Sonsing"
+  },
+  {
+    "invoice": "INV-004",
+    "amount": "$13073.80",
+    "date": "6/22/2023",
+    "status": "Chrome/15.0.860.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/15.0.860.0",
+    "user": 9,
+    "action": "Prodder"
+  },
+  {
+    "invoice": "INV-005",
+    "amount": "$10851.50",
+    "date": "8/22/2023",
+    "status": "Mozilla/5.0 (Windows; U; Windows NT 6.0; tr-TR) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5",
+    "user": 10,
+    "action": "Overhold"
+  },
+  {
+    "invoice": "INV-001",
+    "amount": "$11403.74",
+    "date": "1/20/2024",
+    "status": "Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1",
+    "user": 11,
+    "action": "Holdlamis"
+  },
+  {
+    "invoice": "INV-002",
+    "amount": "$12367.78",
+    "date": "7/9/2023",
+    "status": "Mozilla/5.0 (X11; CrOS i686 1193.158.0) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7",
+    "user": 12,
+    "action": "Voltsillam"
+  },
+  {
+    "invoice": "INV-003",
+    "amount": "$15009.62",
+    "date": "5/13/2023",
+    "status": "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; he-il) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5",
+    "user": 13,
+    "action": "Y-Solowarm"
+  },
+  {
+    "invoice": "INV-004",
+    "amount": "$18903.64",
+    "date": "9/2/2023",
+    "status": "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.17 (KHTML, like Gecko) Chrome/11.0.655.0 Safari/534.17",
+    "user": 14,
+    "action": "Cardguard"
+  },
+  {
+    "invoice": "INV-005",
+    "amount": "$11714.06",
+    "date": "2/18/2024",
+    "status": "Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20100101 Firefox/21.0",
+    "user": 15,
+    "action": "Voltsillam"
+  },
+  {
+    "invoice": "INV-001",
+    "amount": "$16620.72",
+    "date": "3/15/2024",
+    "status": "Mozilla/5.0 (Windows NT 5.2; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7",
+    "user": 16,
+    "action": "Tin"
+  },
+  {
+    "invoice": "INV-002",
+    "amount": "$16622.06",
+    "date": "5/25/2023",
+    "status": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; it-it) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16",
+    "user": 17,
+    "action": "Lotstring"
+  },
+  {
+    "invoice": "INV-003",
+    "amount": "$11442.67",
+    "date": "8/29/2023",
+    "status": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36",
+    "user": 18,
+    "action": "Sub-Ex"
+  },
+  {
+    "invoice": "INV-004",
+    "amount": "$15009.04",
+    "date": "4/19/2023",
+    "status": "Mozilla/5.0 ArchLinux (X11; U; Linux x86_64; en-US) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100",
+    "user": 19,
+    "action": "Zamit"
+  },
+  {
+    "invoice": "INV-005",
+    "amount": "$12678.93",
+    "date": "10/13/2023",
+    "status": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7; en-us) AppleWebKit/533.4 (KHTML, like Gecko) Version/4.1 Safari/533.4",
+    "user": 20,
+    "action": "Greenlam"
+  },
+  {
+    "invoice": "INV-001",
+    "amount": "$19319.58",
+    "date": "7/19/2023",
+    "status": "Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/12.0.742.91",
+    "user": 21,
+    "action": "Overhold"
+  },
+  {
+    "invoice": "INV-002",
+    "amount": "$13083.45",
+    "date": "9/16/2023",
+    "status": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; da-dk) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1",
+    "user": 22,
+    "action": "Keylex"
+  },
+  {
+    "invoice": "INV-003",
+    "amount": "$17705.04",
+    "date": "8/22/2023",
+    "status": "Mozilla/5.0 (Windows; U; Windows NT 6.1; es-ES) AppleWebKit/533.18.1 (KHTML, like Gecko) Version/5.0 Safari/533.16",
+    "user": 23,
+    "action": "Cardify"
+  },
+  {
+    "invoice": "INV-004",
+    "amount": "$10944.42",
+    "date": "7/29/2023",
+    "status": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-au) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16",
+    "user": 24,
+    "action": "Daltfresh"
+  },
+  {
+    "invoice": "INV-005",
+    "amount": "$18723.37",
+    "date": "11/10/2023",
+    "status": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11",
+    "user": 25,
+    "action": "Toughjoyfax"
+  },
+  {
+    "invoice": "INV-001",
+    "amount": "$18847.23",
+    "date": "9/16/2023",
+    "status": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Ubuntu/10.04 Chromium/14.0.804.0 Chrome/14.0.804.0 Safari/535.1",
+    "user": 26,
+    "action": "Lotstring"
+  },
+  {
+    "invoice": "INV-002",
+    "amount": "$19712.30",
+    "date": "12/18/2023",
+    "status": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/10.10 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30",
+    "user": 27,
+    "action": "Redhold"
+  },
+  {
+    "invoice": "INV-003",
+    "amount": "$18574.81",
+    "date": "6/12/2023",
+    "status": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7ad-imcjapan-syosyaman-xkgi3lqg03!wgz",
+    "user": 28,
+    "action": "Alphazap"
+  },
+  {
+    "invoice": "INV-004",
+    "amount": "$18246.96",
+    "date": "2/8/2024",
+    "status": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0",
+    "user": 29,
+    "action": "Lotlux"
+  },
+  {
+    "invoice": "INV-005",
+    "amount": "$13332.10",
+    "date": "3/21/2024",
+    "status": "Mozilla/6.0 (Macintosh; I; Intel Mac OS X 11_7_9; de-LI; rv:1.9b4) Gecko/2012010317 Firefox/10.0a4",
+    "user": 30,
+    "action": "Quo Lux"
+  },
+  {
+    "invoice": "INV-001",
+    "amount": "$10427.72",
+    "date": "2/26/2024",
+    "status": "Mozilla/5.0 ArchLinux (X11; U; Linux x86_64; en-US) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100",
+    "user": 31,
+    "action": "Ventosanzap"
+  },
+  {
+    "invoice": "INV-002",
+    "amount": "$13701.63",
+    "date": "4/7/2023",
+    "status": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36",
+    "user": 32,
+    "action": "Tresom"
+  },
+  {
+    "invoice": "INV-003",
+    "amount": "$18990.79",
+    "date": "9/28/2023",
+    "status": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:14.0) Gecko/20120405 Firefox/14.0a1",
+    "user": 33,
+    "action": "Domainer"
+  },
+  {
+    "invoice": "INV-004",
+    "amount": "$14260.40",
+    "date": "2/22/2024",
+    "status": "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0) Gecko/20100101 Firefox/14.0.1",
+    "user": 34,
+    "action": "Andalax"
+  },
+  {
+    "invoice": "INV-005",
+    "amount": "$19455.77",
+    "date": "1/26/2024",
+    "status": "Mozilla/5.0 (Windows NT 6.0; rv:14.0) Gecko/20100101 Firefox/14.0.1",
+    "user": 35,
+    "action": "Toughjoyfax"
+  },
+  {
+    "invoice": "INV-001",
+    "amount": "$10240.82",
+    "date": "12/16/2023",
+    "status": "Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/533.17.8 (KHTML, like Gecko) Version/5.0.1 Safari/533.17.8",
+    "user": 36,
+    "action": "Wrapsafe"
+  },
+  {
+    "invoice": "INV-002",
+    "amount": "$17168.82",
+    "date": "2/11/2024",
+    "status": "Mozilla/5.0 (X11; CrOS i686 12.433.216) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.105 Safari/534.30",
+    "user": 37,
+    "action": "Job"
+  },
+  {
+    "invoice": "INV-003",
+    "amount": "$10177.17",
+    "date": "5/11/2023",
+    "status": "Mozilla/5.0 (compatible; Windows; U; Windows NT 6.2; WOW64; en-US; rv:12.0) Gecko/20120403211507 Firefox/12.0",
+    "user": 38,
+    "action": "Zamit"
+  },
+  {
+    "invoice": "INV-004",
+    "amount": "$12795.94",
+    "date": "10/14/2023",
+    "status": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41 Safari/535.1",
+    "user": 39,
+    "action": "Ventosanzap"
+  },
+  {
+    "invoice": "INV-005",
+    "amount": "$18669.87",
+    "date": "5/9/2023",
+    "status": "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Chromium/12.0.742.91 Safari/534.30",
+    "user": 40,
+    "action": "Tempsoft"
+  },
+  {
+    "invoice": "INV-001",
+    "amount": "$18755.02",
+    "date": "11/12/2023",
+    "status": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24",
+    "user": 41,
+    "action": "Flowdesk"
+  },
+  {
+    "invoice": "INV-002",
+    "amount": "$13380.35",
+    "date": "7/14/2023",
+    "status": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11",
+    "user": 42,
+    "action": "Job"
+  },
+  {
+    "invoice": "INV-003",
+    "amount": "$11093.09",
+    "date": "6/19/2023",
+    "status": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/10.04 Chromium/12.0.742.112 Chrome/12.0.742.112 Safari/534.30",
+    "user": 43,
+    "action": "Y-Solowarm"
+  },
+  {
+    "invoice": "INV-004",
+    "amount": "$10283.08",
+    "date": "1/2/2024",
+    "status": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.16 Safari/537.36",
+    "user": 44,
+    "action": "Flowdesk"
+  },
+  {
+    "invoice": "INV-005",
+    "amount": "$12830.60",
+    "date": "4/7/2023",
+    "status": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0",
+    "user": 45,
+    "action": "Fixflex"
+  },
+  {
+    "invoice": "INV-001",
+    "amount": "$12603.06",
+    "date": "2/6/2024",
+    "status": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.801.0 Safari/535.1",
+    "user": 46,
+    "action": "Holdlamis"
+  },
+  {
+    "invoice": "INV-002",
+    "amount": "$19253.44",
+    "date": "2/14/2024",
+    "status": "Mozilla/5.0 (Macintosh; I; Intel Mac OS X 11_7_9; de-LI; rv:1.9b4) Gecko/2012010317 Firefox/10.0a4",
+    "user": 47,
+    "action": "Fixflex"
+  },
+  {
+    "invoice": "INV-003",
+    "amount": "$13299.09",
+    "date": "12/12/2023",
+    "status": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36",
+    "user": 48,
+    "action": "Sub-Ex"
+  },
+  {
+    "invoice": "INV-004",
+    "amount": "$10836.93",
+    "date": "8/26/2023",
+    "status": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; da-dk) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1",
+    "user": 49,
+    "action": "Zathin"
+  },
+  {
+    "invoice": "INV-005",
+    "amount": "$13155.64",
+    "date": "1/17/2024",
+    "status": "Mozilla/5.0 (Windows NT 6.0; rv:14.0) Gecko/20100101 Firefox/14.0.1",
+    "user": 50,
+    "action": "Fixflex"
+  }
+]
